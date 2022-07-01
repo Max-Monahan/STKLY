@@ -1,0 +1,41 @@
+All special "features" are executed  through in-game chat.
+These features only work on STKLY users and you must have a higher role than the person you're using these features on.
+
+The "HIGHLY RESPECTED" role was given to people who aided me in my devolopment of STKLY. (Don't fuck with people who have this role)
+The "Long time supporter" role was given to people who have been using it before 2022.
+The "THE BOYS" role is given to people who I consider friends and are (were) active in the STKLY server.
+The "LOYAL" role is given to people who have executed the script close to 50 times, these executions cannot be spammed.
+
+plr means target's username or display name. (Does not need to be their full user or capitzalized correctly)
+--------------------------------------HIGHLY RESPECTED--------------------------------------
+HIGHLY RESPECTED special features: 
+  - /e kick [plr]
+  - /e LK [plr]   -- LOOPKILL
+  - /e K [plr]    -- KILL
+  - /e FW [plr]   -- FUCKWITH
+  - AND Everything Below
+  
+--------------------------------------Long time supporter--------------------------------------
+Long time supporter special features: 
+ - /e bring [plr]
+ - /e blur [plr]
+ - /e b [plr]     -- BANG
+ - AND Everything Below
+ 
+--------------------------------------THE BOYS--------------------------------------
+THE BOYS special features:
+- /e annoy [plr]
+- /e spin [plr]
+- AND Everything Below
+
+--------------------------------------LOYAL--------------------------------------
+LOYAL special features:
+- /e chat [plr] [phrase]  -- phrase means what you want the target to say
+- /e scare [plr]
+
+
+ 
+  
+ 
+  
+ 
