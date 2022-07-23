@@ -1,0 +1,18 @@
+If you have not heard already, I (YourKingMax#2025) am leaving STKLY on 8/3/22
+
+I will be deciding what to do with the script(s)
+  I have a few options in mind:
+    [1] - Let the game rest and make the script(s) inaccessible
+    [2] - Search for a new owner with LUA knowledge so they can continue to update the script(s)
+  **[3] - Release a obfuscated loadstring of the script(s), meaning they won't have a whitelist (Premium would be made free on 8/3/22, I'd like to clarify premium was       never set in black and white that it will be permanently "paid", I said its EARLY ACCESS and thats why it would be paid)**
+    
+
+I am leading toward option 3 since it would be the easiest
+I don't really like option 2 since I'd have to search for a new owner, and by 8/3/22 I would have scripted every *useful* feature
+I don't like option 1 either, I'd be letting my hard work go to waste
+If you have different thoughts, let me know
+
+
+
+Thanks for supporting my project
+- YourKingMax#2025
